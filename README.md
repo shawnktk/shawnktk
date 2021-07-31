@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **Frontend Design and chatbot APIs.**
 
-- 👨‍💻 All of my projects are available at [site to be made](site to be made)
+- 👨‍💻 All of my projects are available at my **Github page.**
 
 - 💬 Ask me about **discord.py, Bootstrap, and python.**
 
 - 📫 How to reach me **shawnhkhattak@gmail.com**
 
-- ⚡ Fun fact **I started coding as a way to keep myself busy during the pandemic**
+- ⚡ Fun fact **I started coding as a way to keep myself busy during the pandemic.**
 
 
 <h3 align="left">Languages and Tools:</h3>
